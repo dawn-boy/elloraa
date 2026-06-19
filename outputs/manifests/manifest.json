@@ -1,0 +1,3895 @@
+{
+  "beats": [
+    {
+      "id": "beat_a1060018",
+      "type": "chapter_break",
+      "chapter_id": "chap_1",
+      "title": "Prologue: The Bite of the Raptor",
+      "note": "Title card",
+      "duration": 4.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": "none",
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Thunderclap",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_89b7789d",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 1",
+      "duration": "pending",
+      "dialogue": "# The Bite of the Raptor Prologue The Bite of the Raptor  The tropical rain fell in drenching sheets, hammering the corrugated roof of the clinic building, roaring down the metal gutters, splashing on the ground in a torrent.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8c5abae8",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_70631c4a",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 2",
+      "duration": "pending",
+      "dialogue": "Roberta Carter sighed, and stared out the window. From the clinic, she could hardly see the beach or the ocean beyond, cloaked in low fog.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_63268c8c",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 3",
+      "duration": "pending",
+      "dialogue": "This wasn't what she had expected when she had come to the fishing village of Bahía Anasco, on the west coast of Costa Rica, to spend two months as a visiting physician.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_02c4ff8f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 4",
+      "duration": "pending",
+      "dialogue": "Bobbie Carter had expected sun and relaxation, after two grueling years of residency in emergency medicine at Michael Reese in Chicago.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8bc748e8",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 5",
+      "duration": "pending",
+      "dialogue": "She had been in Bahía Anasco now for three weeks. And it had rained every day.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_443a02f2",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 6",
+      "duration": "pending",
+      "dialogue": "Everything else was fine. She liked the isolation of Bahía Anasco, and the friendliness of its people.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a1d1989a",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c7af9089",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 7",
+      "duration": "pending",
+      "dialogue": "Costa Rica had one of the twenty best medical systems in the world, and even in this remote coastal village, the clinic was well maintained, amply supplied.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_79e63bc5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 8",
+      "duration": "pending",
+      "dialogue": "Her paramedic, Manuel Arag6n, was intelligent and well trained. Bobbie was able to practice a level of medicine equal to what she had practiced in Chicago.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a3aa22c2",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 9",
+      "duration": "pending",
+      "dialogue": "But the rain! The constant, unending rain!",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_6a299f88",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 10",
+      "duration": "pending",
+      "dialogue": "Across the examining room, Manuel cocked his head. \"Listen,\" he said.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_35eb73cc",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 11",
+      "duration": "pending",
+      "dialogue": "\"Believe me, I hear it,\" Bobbie said. Listen.\" And then she caught it, another sound blended with the rain, a deeper rumble that built and emerged until it was clear: the rhythmic thumping of a helicopter.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5a007d98",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_fc7e93e3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 12",
+      "duration": "pending",
+      "dialogue": "She thought, They can't be flying in weather like this. But the sound built steadily, and then the helicopter burst low through the ocean fog and roared overhead, circled, and came back.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_b2187ce9",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 13",
+      "duration": "pending",
+      "dialogue": "She saw the helicopter swing back over the water, near the fishing boats, then case sideways to the rickety wooden dock, and back toward the beach.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_964f1e0b",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 14",
+      "duration": "pending",
+      "dialogue": "It was looking for a place to land. It was a big-bellied Sikorsky with a blue stripe on the side, with the words \"InGen Construction.\" That was the name of the construction company building a new resort on one of the offshore islands.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_566b2a58",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 15",
+      "duration": "pending",
+      "dialogue": "The resort was said to be spectacular, and very complicated; many of the local people were employed in the construction, which had been going on for more than two years.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a62a37cf",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 16",
+      "duration": "pending",
+      "dialogue": "Bobbie could imagine it-one of those huge American resorts with swimming pools and tennis courts, where guests could play and drink their daiquiris without having any contact with the real life of the country.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_eeeab067",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_ea4348ef",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 17",
+      "duration": "pending",
+      "dialogue": "Bobbie wondered what was so urgent on that island that the helicopter would fly in this weather. Through the windshield she saw the pilot exhale in relief as the helicopter settled onto the wet sand of the beach.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_27e9fc3a",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 18",
+      "duration": "pending",
+      "dialogue": "Uniformed men jumped out, and flung open the big side door. She heard frantic shouts in Spanish, and Manuel nudged her.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_da2e60fa",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 19",
+      "duration": "pending",
+      "dialogue": "They were calling for a doctor. Two black crewmen carried a limp body toward her, while a white man barked orders.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9de16db3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 20",
+      "duration": "pending",
+      "dialogue": "The white man had a yellow slicker. Red hair appeared around the edges of his Mets baseball cap.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_48a5b847",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 21",
+      "duration": "pending",
+      "dialogue": "\"Is there a doctor here?\" he called to her, as she ran up. \"I'm Dr.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c0961ace",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5f8fc922",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 22",
+      "duration": "pending",
+      "dialogue": "Carter,\" she said. The rain fell in heavy drops, pounding her head and shoulders.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9710f133",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 23",
+      "duration": "pending",
+      "dialogue": "The red-halted man frowned at her. She was wearing cut-off jeans and a tank top.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_03604260",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 24",
+      "duration": "pending",
+      "dialogue": "She had a stethoscope over her shoulder, the bell already rusted from the salt air. \"Ed Regis.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_e537d3a5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 25",
+      "duration": "pending",
+      "dialogue": "We've got a very sick man here, doctor.\" \"Then you better take him to San Jose,\" she said. San Jose was the capital, just twenty minutes away by air.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_614f21ff",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 26",
+      "duration": "pending",
+      "dialogue": "\"We would, but we can't get over the mountains in this weather. You have to treat him here.\" Bobbie trotted alongside the injured man as they carried him to the clinic.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5e12dec1",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c61a1622",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 27",
+      "duration": "pending",
+      "dialogue": "He was a kid, no older than eighteen. Lifting away the blood-soaked shirt, she saw a big slashing rip along his shoulder, and another on the leg.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_ff40eab4",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 28",
+      "duration": "pending",
+      "dialogue": "\"What happened to him?\" \"Construction accident,\" Ed shouted. \"He fell.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_32ab247d",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 29",
+      "duration": "pending",
+      "dialogue": "One of the backhoes ran over him.\" The kid was pale, shivering, unconscious. Manuel stood by the bright green door of the clinic, waving his arm.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_95368f54",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 30",
+      "duration": "pending",
+      "dialogue": "The men brought the body through and set it on the table in the center of the room. Manuel started an intravenous line, and Bobbie swung the light over the kid and bent to examine the wounds.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_ff1d0641",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 31",
+      "duration": "pending",
+      "dialogue": "Immediately she could see that it did not look good. The kid would almost certainly die.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_52147ece",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5bc78989",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 32",
+      "duration": "pending",
+      "dialogue": "A big tearing laceration ran from his shoulder down his torso. At the edge of the wound, the flesh was shredded.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_4ea3069d",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 33",
+      "duration": "pending",
+      "dialogue": "At the center, the shoulder was dislocated, pale bones exposed. A second slash cut through the heavy muscles of the thigh, deep enough to reveal the pulse of the femoral artery below.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_fadbcfc5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 34",
+      "duration": "pending",
+      "dialogue": "Her first impression was that his leg had been ripped open. \"Tell me again about this injury,\" she said.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c0d8b17a",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 35",
+      "duration": "pending",
+      "dialogue": "\"I didn't see it,\" Ed said. \"They say the backhoe dragged him.\"  \"Because it almost looks as if he was mauled,\" Bobbie Carter said, probing the wound.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_aa9ef9cf",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 36",
+      "duration": "pending",
+      "dialogue": "Like most emergency room physicians, she could remember in detail patients she had seen even years before.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_38c2f5e6",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_799a2250",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 37",
+      "duration": "pending",
+      "dialogue": "She had seen two maulings. One was a two-year-old child who had been attacked by a Rottweiler dog.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_69e6195b",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 38",
+      "duration": "pending",
+      "dialogue": "The other was a drunken circus attendant who had had an encounter with a Bengal tiger. Both injuries were similar.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_ae505977",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 39",
+      "duration": "pending",
+      "dialogue": "There was a characteristic look to an animal attack. \"Mauled?\" Ed said.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_b9675bc9",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 40",
+      "duration": "pending",
+      "dialogue": "\"No, no. It was a backhoe, believe me.\" Ed licked his lips as he spoke.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a4438205",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 41",
+      "duration": "pending",
+      "dialogue": "He was edgy, acting as if he had done something wrong. Bobbie wondered why.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_f6235fde",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_1a790c05",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 42",
+      "duration": "pending",
+      "dialogue": "If they were using inexperienced local workmen on the resort construction, they must have accidents all the time.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2d6b9ef3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 43",
+      "duration": "pending",
+      "dialogue": "Manuel said, \"Do you want lavage?\" \"Yes,\" she said. \"After you block him.\" She bent lower, probed the wound with her fingertips.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9aa1913e",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 44",
+      "duration": "pending",
+      "dialogue": "If an earth mover had rolled over him, dirt would be forced deep into the wound. But there wasn't any dirt, just a slippery, slimy foam.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_f2516bb8",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 45",
+      "duration": "pending",
+      "dialogue": "And the wound had a strange odor, a kind of rotten stench, a smell of death and decay. She had never smelled anything like it before.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_d0a37706",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 46",
+      "duration": "pending",
+      "dialogue": "\"How long ago did this happen?\" \"An hour.\" Again she noticed how tense Ed Regis was. He was one of those eager, nervous types.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9d39bb11",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9af82894",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 47",
+      "duration": "pending",
+      "dialogue": "And he didn't look like a construction foreman. More like an executive.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_05ade29c",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 48",
+      "duration": "pending",
+      "dialogue": "He was obviously out of his depth. Bobbie Carter turned back to the injuries.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8de15486",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 49",
+      "duration": "pending",
+      "dialogue": "Somehow she didn't think she was seeing mechanical trauma. It just didn't look right.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_ed11127a",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 50",
+      "duration": "pending",
+      "dialogue": "No soil contamination of the wound site, and no crush-injury component. Mechanical trauma of any sort-an auto injury, a factory accident-almost always had some component of crushing.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_d5db3b7b",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 51",
+      "duration": "pending",
+      "dialogue": "But here there was none. Instead, the man's skin was shredded -ripped-across his shoulder, and again across his thigh.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_29c625f2",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_06bb7280",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 52",
+      "duration": "pending",
+      "dialogue": "It really did look like a maul. On the other hand, most of the body was unmarked, which was unusual for an animal attack.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_3878aa12",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 53",
+      "duration": "pending",
+      "dialogue": "She looked again at the head, the arms, the hands - The hands. She felt a chill when she looked at the kid's bands.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_4346cc7c",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 54",
+      "duration": "pending",
+      "dialogue": "There were short slashing cuts on both palms, and bruises on the wrists and forearms. She had worked in Chicago long enough to know what that meant.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_51c0ac2f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 55",
+      "duration": "pending",
+      "dialogue": "\"All right,\" she said. \"Wait outside.\" \"Why?\" Ed said, alarmed.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_3129758f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 56",
+      "duration": "pending",
+      "dialogue": "He didn't like that. \"Do you want me to help him, or not?\" she said, and pushed him out the door and closed it on his face.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_21bebca0",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_09ab1c3c",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 57",
+      "duration": "pending",
+      "dialogue": "She didn't know what was going on, but she didn't like it. Manuel hesitated.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5b0e44e3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 58",
+      "duration": "pending",
+      "dialogue": "\"I continue to wash?\" \"Yes,\" she said. She reached for her little Olympus point-and-shoot.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_271a6fe6",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 59",
+      "duration": "pending",
+      "dialogue": "She took several snapshots of the injury, shifting her light for a better view. It really did look like bites, she thought.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a28a018b",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 60",
+      "duration": "pending",
+      "dialogue": "Then the kid groaned, and she put her camera aside and bent toward him. His lips moved, his tongue thick.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_053d0af3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 61",
+      "duration": "pending",
+      "dialogue": "\"Raptor,\" he said. \"Lo sa raptor .",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_96e46c52",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8aed8d21",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 62",
+      "duration": "pending",
+      "dialogue": "\" At those words, Manuel froze, stepped back in horror. \"What does it mean?\" Bobbie said.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_7a7570b5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 63",
+      "duration": "pending",
+      "dialogue": "Manuel shook his head. \"I do not know, doctor.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_b517dbda",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 64",
+      "duration": "pending",
+      "dialogue": "'Lo sa raptor'-no es espa?ol \" \"No?\" It sounded to her like Spanish. \"Then please continue to wash him.\" \"No, doctor.\" He wrinkled his nose.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_3a5e6d9c",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 65",
+      "duration": "pending",
+      "dialogue": "\"Bad smell.\" And he crossed himself. Bobbie looked again at the slippery foam streaked across the wound.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_576fc607",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 66",
+      "duration": "pending",
+      "dialogue": "She touched it, rubbing it between her fingers. It seemed almost like saliva.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_19c6cdc5",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_383487a3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 67",
+      "duration": "pending",
+      "dialogue": "The injured boy's lips moved. \"Raptor,\" he whispered.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_477d2460",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 68",
+      "duration": "pending",
+      "dialogue": "In a tone of horror, Manuel said, \"It bit him.\" \"What bit him?\" \"Raptor.\" \"What's a raptor?\" \"It means hupia.\" Bobbie frowned.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2c07d632",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 69",
+      "duration": "pending",
+      "dialogue": "The Costa Ricans were not especially superstitious, but she had heard the hupia mentioned in the village before.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_69bfa64f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 70",
+      "duration": "pending",
+      "dialogue": "They were said to be night ghosts, faceless vampires who kidnapped small children. According to the belief, the hupia had once lived in the mountains of Costa Rica, but now inhabited the islands offshore.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_413f46a1",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 71",
+      "duration": "pending",
+      "dialogue": "Manuel was backing away, murmuring and crossing himself. \"It is not normal, this smell,\" he said.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_3179b4b5",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2e993b42",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 72",
+      "duration": "pending",
+      "dialogue": "\"It is the hupia.\" Bobbie was about to order him back to work when the injured youth opened his eyes and sat straight up on the table.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_98fac97d",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 73",
+      "duration": "pending",
+      "dialogue": "Manuel shrieked in terror. The injured boy moaned and twisted his head, looking left and right with wide staring eyes, and then he explosively vomited blood.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_1edf5ed4",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 74",
+      "duration": "pending",
+      "dialogue": "He went immediately into convulsions, his body vibrating, and Bobbie grabbed for him but he shuddered off the table onto the concrete floor.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2d5cb8ba",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 75",
+      "duration": "pending",
+      "dialogue": "He vomited again. There was blood everywhere.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_9e9bbefe",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 76",
+      "duration": "pending",
+      "dialogue": "Ed opened the door, saying, \"What the hell's happening?\" and when he saw the blood he turned  away, his hand to his mouth.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_99f0d22b",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_dccb27ea",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 77",
+      "duration": "pending",
+      "dialogue": "Bobbie was grabbing for a stick to put in the boy's clenched jaws, but even as she did it she knew it was hopeless, and with a final spastic jerk he relaxed and lay still.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_53dcc1c5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 78",
+      "duration": "pending",
+      "dialogue": "She bent to perform mouth-to-mouth, but Manuel grabbed her shoulder fiercely, pulling her back. \"No,\" he said.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_56190bae",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 79",
+      "duration": "pending",
+      "dialogue": "\"The hupia will cross over.\" \"Manuel, for God's sake-\" \"No.\" He stared at her fiercely. You do not understand these things.\" Bobbie looked at the body on the ground and realized that it didn't matter; there was no possibility of resuscitating him.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_f2e9554f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 80",
+      "duration": "pending",
+      "dialogue": "Manuel called for the men, who came back into the room and took the body away. Ed appeared, wiping his mouth with the back of his hand, muttering, \"I'm sure you did all you could,\" and then she watched as the men took the body away, back to the helicopter, and it lifted thunderously up into the sky.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_14ad8888",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 81",
+      "duration": "pending",
+      "dialogue": "\"It is better,\" Manuel said. Bobbie was thinking about the boy's hands.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_38bdf82f",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_500b0f56",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 82",
+      "duration": "pending",
+      "dialogue": "They had been covered with cuts and bruises, in the characteristic pattern of defense wounds. She was quite sure he had not died in a construction accident; he had been attacked, and he had held up his bands against his attacker.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c97e88b6",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 83",
+      "duration": "pending",
+      "dialogue": "\"Where is this island they've come from?\" she asked. \"In the ocean.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_d73f5083",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 84",
+      "duration": "pending",
+      "dialogue": "Perhaps a hundred, hundred and twenty miles offshore,\" \"Pretty far for a resort,\" she said. Manuel watched the helicopter.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2231d93b",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 85",
+      "duration": "pending",
+      "dialogue": "\"I hope they never come back.\" Well, she thought, at least she had pictures. But when she turned back to the table, she saw that her camera was gone.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_73409aaa",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 86",
+      "duration": "pending",
+      "dialogue": "The rain finally stopped later that night. Alone in the bedroom behind the clinic, Bobbie thumbed through her tattered paperback Spanish dictionary.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_6823ff7b",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_971ca6e1",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 87",
+      "duration": "pending",
+      "dialogue": "The boy had said \"raptor,\" and, despite Manuel's protests, she suspected it was a Spanish word. Sure enough, she found it in her dictionary.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2bdfdea9",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 88",
+      "duration": "pending",
+      "dialogue": "It meant \"ravisher\" or \"abductor.\" That gave her pause. The sense of the word was suspiciously close to the meaning of hupia.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_cce7606e",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 89",
+      "duration": "pending",
+      "dialogue": "Of course she did not believe in the superstition. And no ghost had cut those hands.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_768a2d15",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 90",
+      "duration": "pending",
+      "dialogue": "What had the boy been trying to tell her? From the next room, she heard groans.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8f2c20a7",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 91",
+      "duration": "pending",
+      "dialogue": "One of the village women was in the first stage of labor, and Elena Morales, the local midwife, was attending her.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_8d063ee8",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_c46bdbe0",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 92",
+      "duration": "pending",
+      "dialogue": "Bobbie went into the clinic room and gestured to Elena to step outside for a moment. \"Elena .",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a72f4dda",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 93",
+      "duration": "pending",
+      "dialogue": ".\" \"Sí, doctor?\"  \"Do you know what is a raptor?\" Elena was gray-haired and sixty, a strong woman with a practical, no-nonsense air.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_0601463d",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 94",
+      "duration": "pending",
+      "dialogue": "In the night, beneath the stars, she frowned and said, \"Raptor?\" \"Yes, You know this word?\" \" Sí.\" Elena nodded.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_a2b8ac46",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 95",
+      "duration": "pending",
+      "dialogue": "\"It means . a person who comes in the night and takes away a child.\" \"A kidnapper?\" \"Yes.\" \"A hupia?\" Her whole manner changed.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_277f78be",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 96",
+      "duration": "pending",
+      "dialogue": "\"Do not say this word, doctor.\" \"Why not?\" \"Do not speak of hupia now,\" Elena said firmly, nodding her head toward the groans of the laboring woman.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_996e5d19",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_747564ab",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 97",
+      "duration": "pending",
+      "dialogue": "\"It is not wise to say this word now. \"But does a raptor bite and cut his victims?\" \"Bite and cut?\" Elena said, puzzled.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_339a2a1a",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 98",
+      "duration": "pending",
+      "dialogue": "\"No, doctor. Nothing like this.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_fa99fed3",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 99",
+      "duration": "pending",
+      "dialogue": "A raptor is a man who takes a new baby.\" She seemed irritated by the conversation, impatient to end it.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_bd6a4030",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 100",
+      "duration": "pending",
+      "dialogue": "Elena started back toward the clinic. \"I will call to you when she is ready, doctor.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_5293fb8f",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 101",
+      "duration": "pending",
+      "dialogue": "I think one hour more, perhaps two.\" Bobbie looked at the stars, and listened to the peaceful lapping of the surf at the shore.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_12267789",
+      "type": "silence",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Dramatic pause",
+      "duration": 3.0,
+      "dialogue": "none",
+      "voice": "none",
+      "image": {
+        "prompt_keywords": "none",
+        "prompt_description": "none",
+        "negative_prompt": "none",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "none",
+        "seed": "none",
+        "continue_previous": "evolve"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": false,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_2dc646d5",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 102",
+      "duration": "pending",
+      "dialogue": "In the darkness she saw the shadows of the fishing boats anchored offshore. The whole scene was quiet, so normal, she felt foolish to be talking of vampires and kidnapped babies.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_b2d167f7",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 103",
+      "duration": "pending",
+      "dialogue": "Bobbie went back to her room, remembering again that Manuel had insisted it was not a Spanish word. Out of curiosity, she looked in the little English dictionary, and to her surprise she found the word there, too:  raptor \\ n [deriv.",
+      "voice": {
+        "tone": "serious",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "new"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    },
+    {
+      "id": "beat_b851f913",
+      "type": "narration",
+      "chapter_id": "chap_1",
+      "title": "none",
+      "note": "Chunk 104",
+      "duration": "pending",
+      "dialogue": "raptor plunderer, fr. Raptus]: bird of prey.",
+      "voice": {
+        "tone": "normal",
+        "intensity": 0.8,
+        "tone_module_ref": "narrator.wav",
+        "emphasis_words": [],
+        "pause_after": 0.5
+      },
+      "image": {
+        "prompt_keywords": "cinematic, dark, rainy clinic",
+        "prompt_description": "A dark, moody shot matching the narration.",
+        "negative_prompt": "bright, happy",
+        "lora": "none",
+        "lora_strength": "none",
+        "aspect_ratio": "16:9",
+        "seed": "random",
+        "continue_previous": "hold"
+      },
+      "music": {
+        "caption": "Dark ominous synth drone",
+        "ambience_cue": "Rain sounds",
+        "duck_under_voice": true,
+        "segment_id": "seg_1"
+      }
+    }
+  ]
+}
