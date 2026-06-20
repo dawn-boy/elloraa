@@ -1,9 +1,7 @@
 import os
 import sys
 
-# Assume the user cloned 'index-tts' in the root alongside 'src'
-sys.path.append(os.path.abspath("index-tts"))
-
+# Assume the user cloned 'index-tts' inside the repos/ 
 try:
     from indextts.infer_v2 import IndexTTS2
 except ImportError:
@@ -15,8 +13,8 @@ from src.config import PATHS
 class VoiceEngine:
     def __init__(self):
         # Fallback handling in case the user hasn't downloaded the models yet
-        cfg_path = "index-tts/checkpoints/config.yaml"
-        model_dir = "index-tts/checkpoints"
+        cfg_path = "repos/index-tts/checkpoints/config.yaml"
+        model_dir = "repos/index-tts/checkpoints"
         
         if not os.path.exists(cfg_path) or not IndexTTS2:
             self.tts = None
@@ -33,10 +31,9 @@ class VoiceEngine:
         )
         print("IndexTTS2 initialized successfully.")
 
-    def generate_narration(self, text: str, tone: str, intensity: float, output_filename: str):
+    def generate_narration(self, text: str, tone: str, intensity: float, output_filename: str, emo_alpha: float = 0.75):
         if not self.tts:
-            print("Mock Voice Engine: Would have generated audio for:", text)
-            return True
+            raise RuntimeError("IndexTTS2 model is not loaded. Cannot generate audio.")
             
         output_path = os.path.join(PATHS["audio_dir"], output_filename)
         os.makedirs(PATHS["audio_dir"], exist_ok=True)
@@ -56,7 +53,7 @@ class VoiceEngine:
         # We'll use intensity to drive the vector strength
         if tone == "serious":
             # Serious is a mix of calm and maybe slightly melancholic depending on the script
-            emo_vector = [0, 0, 0, 0, 0, intensity * 0.3, 0, intensity * 0.8]
+            emo_vector = [0.0, 0.0, 0.1, 0.15, 0.0, intensity * 0.45, 0.0, intensity * 0.3]
         elif tone == "calm":
             emo_vector = [0, 0, 0, 0, 0, 0, 0, intensity]
         elif tone == "soft_laugh":
@@ -69,6 +66,7 @@ class VoiceEngine:
                 text=text,
                 output_path=output_path,
                 emo_vector=emo_vector,
+                emo_alpha=emo_alpha,
                 use_random=False, # Per docs, disables stochasticity to maintain fidelity
                 verbose=False
             )

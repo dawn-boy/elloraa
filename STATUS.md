@@ -24,26 +24,23 @@ The architectural single source of truth is the **Beats Manifest** (a strictly t
 - LLM integration drafted using OpenAI (GPT-4o) to ingest `assets/scripts/script.md` and output a strictly formatted JSON manifest.
 - **Mocking:** To unblock Stage 1 development, a `mock_manifest_generator.py` was used to convert `script.md` into a fully valid 126-beat `outputs/manifests/manifest.json`. All `narration` beats currently have `duration: "pending"`.
 
-### 4. Stage 1: Voice Engine (`src/stages/stage1_voice.py`)
+### 4. Stage 1: Voice Engine (`src/stages/stage1_voice.py` & `src/pipeline.py`)
 - `VoiceEngine` class drafted to wrap **IndexTTS2**.
 - Maps string-based tones (e.g., `"serious"`, `"calm"`) and `intensity` into IndexTTS2's required 8-dimensional emotion vector.
 - Reference audio provided at `assets/voices/serious_tone.wav`.
 - Setup scripts drafted to install dependencies (ffmpeg, git-lfs) and download HuggingFace checkpoints for IndexTTS2.
+- `src/pipeline.py` orchestrates the stage: backing up the manifest, parsing beats, calling `VoiceEngine`, measuring output duration (with fallback mock handling), and mutating the manifest `duration` field.
 
 ---
 
 ## 🟡 Next Steps (Immediate Action Required)
 
-The immediate next task is to **hook up the Voice Engine to the Manifest**. 
+The immediate next task is to move to **Stage 2 (Image Generation)** or install `index-tts` and actualize Stage 1 if full runtime testing of TTS is desired.
 
-The next AI agent should modify `src/stages/stage1_voice.py` (or create a pipeline orchestration script) to do the following:
-1. **Load** the `outputs/manifests/manifest.json` using the Pydantic `BeatsManifest` class.
-2. **Iterate** through all beats. For every beat where `type == "narration"`:
-   - Extract `dialogue`, `voice.tone`, and `voice.intensity`.
-   - Call `VoiceEngine.generate_narration(...)`.
-   - Programmatically **measure the duration** of the resulting `.wav` file.
-   - **Mutate** the `beat.duration` field from `"pending"` to the measured float value.
-3. **Save** the updated manifest back to disk.
+For Stage 2 (Image Generation):
+1. Create `src/stages/stage2_image.py`.
+2. Wrap Flux 1.D in an `ImageEngine`.
+3. Hook `ImageEngine` into `src/pipeline.py` to generate still frames for each narration / beat-only beat based on the `image` directive, taking `lora` into account.
 
 ---
 

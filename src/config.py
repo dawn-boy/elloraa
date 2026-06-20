@@ -2,7 +2,8 @@ import os
 from openai import OpenAI
 
 # Will look for OPENAI_API_KEY in the environment
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+_api_key = os.environ.get("OPENAI_API_KEY")
+client = OpenAI(api_key=_api_key) if _api_key else None
 
 PATHS = {
     "scripts_dir": "assets/scripts",
