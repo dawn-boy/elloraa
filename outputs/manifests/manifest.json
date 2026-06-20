@@ -24,12 +24,10 @@
       "title": "none",
       "note": "Chunk 1",
       "duration": "pending",
-      "dialogue": "# The Bite of the Raptor Prologue The Bite of the Raptor  The tropical rain fell in drenching sheets, hammering the corrugated roof of the clinic building, roaring down the metal gutters, splashing on the ground in a torrent.",
+      "dialogue": "The Bite of the Raptor Prologue The tropical rain fell in drenching sheets, hammering the corrugated roof of the clinic building, roaring down the metal gutters, splashing on the ground in a torrent.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -84,10 +82,8 @@
       "duration": "pending",
       "dialogue": "Roberta Carter sighed, and stared out the window. From the clinic, she could hardly see the beach or the ocean beyond, cloaked in low fog.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -114,12 +110,10 @@
       "title": "none",
       "note": "Chunk 3",
       "duration": "pending",
-      "dialogue": "This wasn't what she had expected when she had come to the fishing village of Bahía Anasco, on the west coast of Costa Rica, to spend two months as a visiting physician.",
+      "dialogue": "This wasn't what she had expected when she had come to the fishing village of Bah\u00eda Anasco, on the west coast of Costa Rica, to spend two months as a visiting physician.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -148,10 +142,8 @@
       "duration": "pending",
       "dialogue": "Bobbie Carter had expected sun and relaxation, after two grueling years of residency in emergency medicine at Michael Reese in Chicago.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -178,12 +170,10 @@
       "title": "none",
       "note": "Chunk 5",
       "duration": "pending",
-      "dialogue": "She had been in Bahía Anasco now for three weeks. And it had rained every day.",
+      "dialogue": "She had been in Bah\u00eda Anasco now for three weeks. And it had rained every day.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -210,12 +200,10 @@
       "title": "none",
       "note": "Chunk 6",
       "duration": "pending",
-      "dialogue": "Everything else was fine. She liked the isolation of Bahía Anasco, and the friendliness of its people.",
+      "dialogue": "Everything else was fine. She liked the isolation of Bah\u00eda Anasco, and the friendliness of its people.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -270,10 +258,8 @@
       "duration": "pending",
       "dialogue": "Costa Rica had one of the twenty best medical systems in the world, and even in this remote coastal village, the clinic was well maintained, amply supplied.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -302,10 +288,8 @@
       "duration": "pending",
       "dialogue": "Her paramedic, Manuel Arag6n, was intelligent and well trained. Bobbie was able to practice a level of medicine equal to what she had practiced in Chicago.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -334,10 +318,8 @@
       "duration": "pending",
       "dialogue": "But the rain! The constant, unending rain!",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -366,10 +348,8 @@
       "duration": "pending",
       "dialogue": "Across the examining room, Manuel cocked his head. \"Listen,\" he said.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -398,10 +378,8 @@
       "duration": "pending",
       "dialogue": "\"Believe me, I hear it,\" Bobbie said. Listen.\" And then she caught it, another sound blended with the rain, a deeper rumble that built and emerged until it was clear: the rhythmic thumping of a helicopter.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -456,10 +434,8 @@
       "duration": "pending",
       "dialogue": "She thought, They can't be flying in weather like this. But the sound built steadily, and then the helicopter burst low through the ocean fog and roared overhead, circled, and came back.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -488,10 +464,8 @@
       "duration": "pending",
       "dialogue": "She saw the helicopter swing back over the water, near the fishing boats, then case sideways to the rickety wooden dock, and back toward the beach.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -520,10 +494,8 @@
       "duration": "pending",
       "dialogue": "It was looking for a place to land. It was a big-bellied Sikorsky with a blue stripe on the side, with the words \"InGen Construction.\" That was the name of the construction company building a new resort on one of the offshore islands.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -552,10 +524,8 @@
       "duration": "pending",
       "dialogue": "The resort was said to be spectacular, and very complicated; many of the local people were employed in the construction, which had been going on for more than two years.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -584,10 +554,8 @@
       "duration": "pending",
       "dialogue": "Bobbie could imagine it-one of those huge American resorts with swimming pools and tennis courts, where guests could play and drink their daiquiris without having any contact with the real life of the country.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -642,10 +610,8 @@
       "duration": "pending",
       "dialogue": "Bobbie wondered what was so urgent on that island that the helicopter would fly in this weather. Through the windshield she saw the pilot exhale in relief as the helicopter settled onto the wet sand of the beach.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -674,10 +640,8 @@
       "duration": "pending",
       "dialogue": "Uniformed men jumped out, and flung open the big side door. She heard frantic shouts in Spanish, and Manuel nudged her.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -706,10 +670,8 @@
       "duration": "pending",
       "dialogue": "They were calling for a doctor. Two black crewmen carried a limp body toward her, while a white man barked orders.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -738,10 +700,8 @@
       "duration": "pending",
       "dialogue": "The white man had a yellow slicker. Red hair appeared around the edges of his Mets baseball cap.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -770,10 +730,8 @@
       "duration": "pending",
       "dialogue": "\"Is there a doctor here?\" he called to her, as she ran up. \"I'm Dr.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -828,10 +786,8 @@
       "duration": "pending",
       "dialogue": "Carter,\" she said. The rain fell in heavy drops, pounding her head and shoulders.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -860,10 +816,8 @@
       "duration": "pending",
       "dialogue": "The red-halted man frowned at her. She was wearing cut-off jeans and a tank top.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -892,10 +846,8 @@
       "duration": "pending",
       "dialogue": "She had a stethoscope over her shoulder, the bell already rusted from the salt air. \"Ed Regis.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -924,10 +876,8 @@
       "duration": "pending",
       "dialogue": "We've got a very sick man here, doctor.\" \"Then you better take him to San Jose,\" she said. San Jose was the capital, just twenty minutes away by air.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -956,10 +906,8 @@
       "duration": "pending",
       "dialogue": "\"We would, but we can't get over the mountains in this weather. You have to treat him here.\" Bobbie trotted alongside the injured man as they carried him to the clinic.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1014,10 +962,8 @@
       "duration": "pending",
       "dialogue": "He was a kid, no older than eighteen. Lifting away the blood-soaked shirt, she saw a big slashing rip along his shoulder, and another on the leg.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1046,10 +992,8 @@
       "duration": "pending",
       "dialogue": "\"What happened to him?\" \"Construction accident,\" Ed shouted. \"He fell.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1078,10 +1022,8 @@
       "duration": "pending",
       "dialogue": "One of the backhoes ran over him.\" The kid was pale, shivering, unconscious. Manuel stood by the bright green door of the clinic, waving his arm.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1110,10 +1052,8 @@
       "duration": "pending",
       "dialogue": "The men brought the body through and set it on the table in the center of the room. Manuel started an intravenous line, and Bobbie swung the light over the kid and bent to examine the wounds.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1142,10 +1082,8 @@
       "duration": "pending",
       "dialogue": "Immediately she could see that it did not look good. The kid would almost certainly die.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1200,10 +1138,8 @@
       "duration": "pending",
       "dialogue": "A big tearing laceration ran from his shoulder down his torso. At the edge of the wound, the flesh was shredded.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1232,10 +1168,8 @@
       "duration": "pending",
       "dialogue": "At the center, the shoulder was dislocated, pale bones exposed. A second slash cut through the heavy muscles of the thigh, deep enough to reveal the pulse of the femoral artery below.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1264,10 +1198,8 @@
       "duration": "pending",
       "dialogue": "Her first impression was that his leg had been ripped open. \"Tell me again about this injury,\" she said.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1296,10 +1228,8 @@
       "duration": "pending",
       "dialogue": "\"I didn't see it,\" Ed said. \"They say the backhoe dragged him.\"  \"Because it almost looks as if he was mauled,\" Bobbie Carter said, probing the wound.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1328,10 +1258,8 @@
       "duration": "pending",
       "dialogue": "Like most emergency room physicians, she could remember in detail patients she had seen even years before.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1386,10 +1314,8 @@
       "duration": "pending",
       "dialogue": "She had seen two maulings. One was a two-year-old child who had been attacked by a Rottweiler dog.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1418,10 +1344,8 @@
       "duration": "pending",
       "dialogue": "The other was a drunken circus attendant who had had an encounter with a Bengal tiger. Both injuries were similar.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1450,10 +1374,8 @@
       "duration": "pending",
       "dialogue": "There was a characteristic look to an animal attack. \"Mauled?\" Ed said.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1482,10 +1404,8 @@
       "duration": "pending",
       "dialogue": "\"No, no. It was a backhoe, believe me.\" Ed licked his lips as he spoke.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1514,10 +1434,8 @@
       "duration": "pending",
       "dialogue": "He was edgy, acting as if he had done something wrong. Bobbie wondered why.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1572,10 +1490,8 @@
       "duration": "pending",
       "dialogue": "If they were using inexperienced local workmen on the resort construction, they must have accidents all the time.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1604,10 +1520,8 @@
       "duration": "pending",
       "dialogue": "Manuel said, \"Do you want lavage?\" \"Yes,\" she said. \"After you block him.\" She bent lower, probed the wound with her fingertips.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1636,10 +1550,8 @@
       "duration": "pending",
       "dialogue": "If an earth mover had rolled over him, dirt would be forced deep into the wound. But there wasn't any dirt, just a slippery, slimy foam.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1668,10 +1580,8 @@
       "duration": "pending",
       "dialogue": "And the wound had a strange odor, a kind of rotten stench, a smell of death and decay. She had never smelled anything like it before.",
       "voice": {
-        "tone": "serious",
+        "tone": "soft_laugh",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1700,10 +1610,8 @@
       "duration": "pending",
       "dialogue": "\"How long ago did this happen?\" \"An hour.\" Again she noticed how tense Ed Regis was. He was one of those eager, nervous types.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1758,10 +1666,8 @@
       "duration": "pending",
       "dialogue": "And he didn't look like a construction foreman. More like an executive.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1790,10 +1696,8 @@
       "duration": "pending",
       "dialogue": "He was obviously out of his depth. Bobbie Carter turned back to the injuries.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1822,10 +1726,8 @@
       "duration": "pending",
       "dialogue": "Somehow she didn't think she was seeing mechanical trauma. It just didn't look right.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1854,10 +1756,8 @@
       "duration": "pending",
       "dialogue": "No soil contamination of the wound site, and no crush-injury component. Mechanical trauma of any sort-an auto injury, a factory accident-almost always had some component of crushing.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1886,10 +1786,8 @@
       "duration": "pending",
       "dialogue": "But here there was none. Instead, the man's skin was shredded -ripped-across his shoulder, and again across his thigh.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1944,10 +1842,8 @@
       "duration": "pending",
       "dialogue": "It really did look like a maul. On the other hand, most of the body was unmarked, which was unusual for an animal attack.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -1976,10 +1872,8 @@
       "duration": "pending",
       "dialogue": "She looked again at the head, the arms, the hands - The hands. She felt a chill when she looked at the kid's bands.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2008,10 +1902,8 @@
       "duration": "pending",
       "dialogue": "There were short slashing cuts on both palms, and bruises on the wrists and forearms. She had worked in Chicago long enough to know what that meant.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2040,10 +1932,8 @@
       "duration": "pending",
       "dialogue": "\"All right,\" she said. \"Wait outside.\" \"Why?\" Ed said, alarmed.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2072,10 +1962,8 @@
       "duration": "pending",
       "dialogue": "He didn't like that. \"Do you want me to help him, or not?\" she said, and pushed him out the door and closed it on his face.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2130,10 +2018,8 @@
       "duration": "pending",
       "dialogue": "She didn't know what was going on, but she didn't like it. Manuel hesitated.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2162,10 +2048,8 @@
       "duration": "pending",
       "dialogue": "\"I continue to wash?\" \"Yes,\" she said. She reached for her little Olympus point-and-shoot.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2194,10 +2078,8 @@
       "duration": "pending",
       "dialogue": "She took several snapshots of the injury, shifting her light for a better view. It really did look like bites, she thought.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2226,10 +2108,8 @@
       "duration": "pending",
       "dialogue": "Then the kid groaned, and she put her camera aside and bent toward him. His lips moved, his tongue thick.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2258,10 +2138,8 @@
       "duration": "pending",
       "dialogue": "\"Raptor,\" he said. \"Lo sa raptor .",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2316,10 +2194,8 @@
       "duration": "pending",
       "dialogue": "\" At those words, Manuel froze, stepped back in horror. \"What does it mean?\" Bobbie said.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2348,10 +2224,8 @@
       "duration": "pending",
       "dialogue": "Manuel shook his head. \"I do not know, doctor.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2380,10 +2254,8 @@
       "duration": "pending",
       "dialogue": "'Lo sa raptor'-no es espa?ol \" \"No?\" It sounded to her like Spanish. \"Then please continue to wash him.\" \"No, doctor.\" He wrinkled his nose.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2412,10 +2284,8 @@
       "duration": "pending",
       "dialogue": "\"Bad smell.\" And he crossed himself. Bobbie looked again at the slippery foam streaked across the wound.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2444,10 +2314,8 @@
       "duration": "pending",
       "dialogue": "She touched it, rubbing it between her fingers. It seemed almost like saliva.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2502,10 +2370,8 @@
       "duration": "pending",
       "dialogue": "The injured boy's lips moved. \"Raptor,\" he whispered.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2534,10 +2400,8 @@
       "duration": "pending",
       "dialogue": "In a tone of horror, Manuel said, \"It bit him.\" \"What bit him?\" \"Raptor.\" \"What's a raptor?\" \"It means hupia.\" Bobbie frowned.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2566,10 +2430,8 @@
       "duration": "pending",
       "dialogue": "The Costa Ricans were not especially superstitious, but she had heard the hupia mentioned in the village before.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2598,10 +2460,8 @@
       "duration": "pending",
       "dialogue": "They were said to be night ghosts, faceless vampires who kidnapped small children. According to the belief, the hupia had once lived in the mountains of Costa Rica, but now inhabited the islands offshore.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2630,10 +2490,8 @@
       "duration": "pending",
       "dialogue": "Manuel was backing away, murmuring and crossing himself. \"It is not normal, this smell,\" he said.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2688,10 +2546,8 @@
       "duration": "pending",
       "dialogue": "\"It is the hupia.\" Bobbie was about to order him back to work when the injured youth opened his eyes and sat straight up on the table.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2720,10 +2576,8 @@
       "duration": "pending",
       "dialogue": "Manuel shrieked in terror. The injured boy moaned and twisted his head, looking left and right with wide staring eyes, and then he explosively vomited blood.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2752,10 +2606,8 @@
       "duration": "pending",
       "dialogue": "He went immediately into convulsions, his body vibrating, and Bobbie grabbed for him but he shuddered off the table onto the concrete floor.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2784,10 +2636,8 @@
       "duration": "pending",
       "dialogue": "He vomited again. There was blood everywhere.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2816,10 +2666,8 @@
       "duration": "pending",
       "dialogue": "Ed opened the door, saying, \"What the hell's happening?\" and when he saw the blood he turned  away, his hand to his mouth.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2874,10 +2722,8 @@
       "duration": "pending",
       "dialogue": "Bobbie was grabbing for a stick to put in the boy's clenched jaws, but even as she did it she knew it was hopeless, and with a final spastic jerk he relaxed and lay still.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2906,10 +2752,8 @@
       "duration": "pending",
       "dialogue": "She bent to perform mouth-to-mouth, but Manuel grabbed her shoulder fiercely, pulling her back. \"No,\" he said.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2938,10 +2782,8 @@
       "duration": "pending",
       "dialogue": "\"The hupia will cross over.\" \"Manuel, for God's sake-\" \"No.\" He stared at her fiercely. You do not understand these things.\" Bobbie looked at the body on the ground and realized that it didn't matter; there was no possibility of resuscitating him.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -2970,10 +2812,8 @@
       "duration": "pending",
       "dialogue": "Manuel called for the men, who came back into the room and took the body away. Ed appeared, wiping his mouth with the back of his hand, muttering, \"I'm sure you did all you could,\" and then she watched as the men took the body away, back to the helicopter, and it lifted thunderously up into the sky.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3002,10 +2842,8 @@
       "duration": "pending",
       "dialogue": "\"It is better,\" Manuel said. Bobbie was thinking about the boy's hands.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3060,10 +2898,8 @@
       "duration": "pending",
       "dialogue": "They had been covered with cuts and bruises, in the characteristic pattern of defense wounds. She was quite sure he had not died in a construction accident; he had been attacked, and he had held up his bands against his attacker.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3092,10 +2928,8 @@
       "duration": "pending",
       "dialogue": "\"Where is this island they've come from?\" she asked. \"In the ocean.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3124,10 +2958,8 @@
       "duration": "pending",
       "dialogue": "Perhaps a hundred, hundred and twenty miles offshore,\" \"Pretty far for a resort,\" she said. Manuel watched the helicopter.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3156,10 +2988,8 @@
       "duration": "pending",
       "dialogue": "\"I hope they never come back.\" Well, she thought, at least she had pictures. But when she turned back to the table, she saw that her camera was gone.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3188,10 +3018,8 @@
       "duration": "pending",
       "dialogue": "The rain finally stopped later that night. Alone in the bedroom behind the clinic, Bobbie thumbed through her tattered paperback Spanish dictionary.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3246,10 +3074,8 @@
       "duration": "pending",
       "dialogue": "The boy had said \"raptor,\" and, despite Manuel's protests, she suspected it was a Spanish word. Sure enough, she found it in her dictionary.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3278,10 +3104,8 @@
       "duration": "pending",
       "dialogue": "It meant \"ravisher\" or \"abductor.\" That gave her pause. The sense of the word was suspiciously close to the meaning of hupia.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3310,10 +3134,8 @@
       "duration": "pending",
       "dialogue": "Of course she did not believe in the superstition. And no ghost had cut those hands.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3342,10 +3164,8 @@
       "duration": "pending",
       "dialogue": "What had the boy been trying to tell her? From the next room, she heard groans.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3374,10 +3194,8 @@
       "duration": "pending",
       "dialogue": "One of the village women was in the first stage of labor, and Elena Morales, the local midwife, was attending her.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3432,10 +3250,8 @@
       "duration": "pending",
       "dialogue": "Bobbie went into the clinic room and gestured to Elena to step outside for a moment. \"Elena .",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3462,12 +3278,10 @@
       "title": "none",
       "note": "Chunk 93",
       "duration": "pending",
-      "dialogue": ".\" \"Sí, doctor?\"  \"Do you know what is a raptor?\" Elena was gray-haired and sixty, a strong woman with a practical, no-nonsense air.",
+      "dialogue": ".\" \"S\u00ed, doctor?\"  \"Do you know what is a raptor?\" Elena was gray-haired and sixty, a strong woman with a practical, no-nonsense air.",
       "voice": {
-        "tone": "serious",
+        "tone": "soft_laugh",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3494,12 +3308,10 @@
       "title": "none",
       "note": "Chunk 94",
       "duration": "pending",
-      "dialogue": "In the night, beneath the stars, she frowned and said, \"Raptor?\" \"Yes, You know this word?\" \" Sí.\" Elena nodded.",
+      "dialogue": "In the night, beneath the stars, she frowned and said, \"Raptor?\" \"Yes, You know this word?\" \" S\u00ed.\" Elena nodded.",
       "voice": {
-        "tone": "normal",
+        "tone": "soft_laugh",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3528,10 +3340,8 @@
       "duration": "pending",
       "dialogue": "\"It means . a person who comes in the night and takes away a child.\" \"A kidnapper?\" \"Yes.\" \"A hupia?\" Her whole manner changed.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3560,10 +3370,8 @@
       "duration": "pending",
       "dialogue": "\"Do not say this word, doctor.\" \"Why not?\" \"Do not speak of hupia now,\" Elena said firmly, nodding her head toward the groans of the laboring woman.",
       "voice": {
-        "tone": "normal",
+        "tone": "soft_laugh",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3618,10 +3426,8 @@
       "duration": "pending",
       "dialogue": "\"It is not wise to say this word now. \"But does a raptor bite and cut his victims?\" \"Bite and cut?\" Elena said, puzzled.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3650,10 +3456,8 @@
       "duration": "pending",
       "dialogue": "\"No, doctor. Nothing like this.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3682,10 +3486,8 @@
       "duration": "pending",
       "dialogue": "A raptor is a man who takes a new baby.\" She seemed irritated by the conversation, impatient to end it.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3714,10 +3516,8 @@
       "duration": "pending",
       "dialogue": "Elena started back toward the clinic. \"I will call to you when she is ready, doctor.",
       "voice": {
-        "tone": "normal",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3746,10 +3546,8 @@
       "duration": "pending",
       "dialogue": "I think one hour more, perhaps two.\" Bobbie looked at the stars, and listened to the peaceful lapping of the surf at the shore.",
       "voice": {
-        "tone": "serious",
+        "tone": "calm",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3804,10 +3602,8 @@
       "duration": "pending",
       "dialogue": "In the darkness she saw the shadows of the fishing boats anchored offshore. The whole scene was quiet, so normal, she felt foolish to be talking of vampires and kidnapped babies.",
       "voice": {
-        "tone": "normal",
+        "tone": "soft_laugh",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3836,10 +3632,8 @@
       "duration": "pending",
       "dialogue": "Bobbie went back to her room, remembering again that Manuel had insisted it was not a Spanish word. Out of curiosity, she looked in the little English dictionary, and to her surprise she found the word there, too:  raptor \\ n [deriv.",
       "voice": {
-        "tone": "serious",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {
@@ -3868,10 +3662,8 @@
       "duration": "pending",
       "dialogue": "raptor plunderer, fr. Raptus]: bird of prey.",
       "voice": {
-        "tone": "normal",
+        "tone": "curious",
         "intensity": 0.8,
-        "tone_module_ref": "narrator.wav",
-        "emphasis_words": [],
         "pause_after": 0.5
       },
       "image": {

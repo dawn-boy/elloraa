@@ -76,10 +76,8 @@ The manifest is a JSON array of beat objects. The schema is fixed — every beat
 
 | Field | Type | Notes |
 |---|---|---|
-| `tone` | enum | `serious` \| `curious` \| `normal` \| `calm` \| `soft_laugh` |
+| `tone` | enum | `curious` \| `calm` \| `soft_laugh` |
 | `intensity` | float 0–1 | Degree of tonal expression within the selected module |
-| `tone_module_ref` | string | Reference to the pre-recorded voice sample for this tone |
-| `emphasis_words` | string[] | Words the model should stress |
 | `pause_after` | float | Seconds of silence to pad after the line |
 
 **`image`** — object or `"none"`
@@ -112,8 +110,8 @@ The only stage with global context. An LLM reads the topic and writes every fiel
 
 **Decides:**
 - Beat sequence — which lines are `narration`, where `silence` or `beat_only` beats are placed
-- Tone sequencing — ensures emotional variety across the video; no more than ~3 consecutive `serious` beats without a `curious` or `normal` break to prevent audience fatigue
-- Emphasis words and pause timing per narration beat
+- Tone sequencing — ensures emotional variety across the video; must always start and end the narration sequence with the "curious" tone, using "calm" and "soft_laugh" sparingly in the middle. No more than ~3 consecutive curious beats without a calm break to prevent audience fatigue.
+- Pause timing per narration beat
 - Image directives — keyword and description fields appropriate for the intended LoRA's domain
 - LoRA selection — if the dialogue content would fight a LoRA's trained aesthetic, the director assigns a different LoRA or `"none"` rather than forcing a mismatch
 - Music captions per segment — must fully encode mood and atmosphere in text, since ACE-Step receives no other context about the narrative
@@ -128,7 +126,7 @@ All `narration` beats leave `duration: "pending"` after this stage.
 
 IndexTTS2 is the primary voice model. It clones from a reference audio file and applies an emotion vector to control expressive tone.
 
-**How tone works:** The pipeline maintains a set of pre-recorded reference clips — one per `tone` enum value (serious, curious, normal, calm, soft_laugh). The `tone_module_ref` field on each beat points to the appropriate clip. IndexTTS2 uses it as the voice identity source for that line.
+**How tone works:** The pipeline maintains a set of pre-recorded reference clips — one per `tone` enum value (curious, calm, soft_laugh) located at `assets/voices/{tone}_tone.wav`. The voice stage dynamically resolves the correct reference file based on the beat's tone, which serves as the voice identity source for that line.
 
 **Emotion vector:** IndexTTS2 accepts an 8-dimensional emotion vector: `[happy, angry, sad, afraid, disgusted, melancholic, surprised, calm]`. The Director pass controls this indirectly through the `tone` and `intensity` fields; the voice stage maps those to concrete emotion vector values at runtime.
 

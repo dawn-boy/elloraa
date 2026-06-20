@@ -26,10 +26,11 @@ The architectural single source of truth is the **Beats Manifest** (a strictly t
 
 ### 4. Stage 1: Voice Engine (`src/stages/stage1_voice.py` & `src/pipeline.py`)
 - `VoiceEngine` class drafted to wrap **IndexTTS2**.
-- Maps string-based tones (e.g., `"serious"`, `"calm"`) and `intensity` into IndexTTS2's required 8-dimensional emotion vector.
-- Reference audio provided at `assets/voices/serious_tone.wav`.
+- Maps string-based tones ("curious", "calm", "soft_laugh") and `intensity` directly from the beats manifest into IndexTTS2's 8-dimensional emotion vector using tweaked parameters from voice testing.
+- Uses dynamic fallbacks to the corresponding tone WAV files (`{tone}_tone.wav`) when `tone_module_ref` is not found.
 - Setup scripts drafted to install dependencies (ffmpeg, git-lfs) and download HuggingFace checkpoints for IndexTTS2.
 - `src/pipeline.py` orchestrates the stage: backing up the manifest, parsing beats, calling `VoiceEngine`, measuring output duration (with fallback mock handling), and mutating the manifest `duration` field.
+- The user's custom tweaked `emo_vector` values have been successfully integrated directly into [stage1_voice.py](file:///teamspace/studios/this_studio/elloraa/src/stages/stage1_voice.py). Standalone testing scripts remain in `testing/` for reference.
 
 ---
 

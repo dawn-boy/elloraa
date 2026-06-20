@@ -4,10 +4,8 @@ from pydantic import BaseModel, Field
 BeatType = Literal["narration", "silence", "beat_only", "chapter_break"]
 
 class VoiceDirective(BaseModel):
-    tone: Literal["serious", "curious", "normal", "calm", "soft_laugh"]
+    tone: Literal["curious", "calm", "soft_laugh"]
     intensity: float = Field(ge=0.0, le=1.0)
-    tone_module_ref: str
-    emphasis_words: List[str]
     pause_after: float
 
 class ImageDirective(BaseModel):

@@ -11,10 +11,8 @@ The output will be parsed into this Pydantic schema:
 
 ```python
 class VoiceDirective(BaseModel):
-    tone: Literal["serious", "curious", "normal", "calm", "soft_laugh"]
+    tone: Literal["curious", "calm", "soft_laugh"]
     intensity: float # 0.0 to 1.0
-    tone_module_ref: str
-    emphasis_words: List[str]
     pause_after: float
 
 class ImageDirective(BaseModel):
