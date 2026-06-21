@@ -1,0 +1,18 @@
+{
+    "_comment": "Config for director_lab.py — the per-section loop Director Stage.",
+    "_usage": "uv run python src/testing/director_lab.py --config src/testing/director_lab_config.json",
+
+    "model_name": "repos/DeepSeek-R1-Distill-Qwen-32B-FP8",
+    "temperature": 0.6,
+
+    "script_path": "assets/scripts/script.md",
+
+    "pass1_system_prompt": "src/testing/prompts/sys_pass1.txt",
+    "pass2_system_prompt": "src/testing/prompts/sys_pass2.txt",
+    "pass3_system_prompt": "src/testing/prompts/sys_pass3.txt",
+
+    "output_dir": "src/testing/outputs",
+
+    "_experiment_id_note": "Set to null to auto-generate a timestamped ID, or set a fixed string like 'exp2' to reproduce.",
+    "experiment_id": null
+}
