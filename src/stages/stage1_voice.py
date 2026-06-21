@@ -4,11 +4,15 @@ import time
 import shutil
 import wave
 
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+sys.path.insert(0, project_root)
+sys.path.insert(0, os.path.join(project_root, 'repos', 'index-tts'))
+
 # Assume the user cloned 'index-tts' inside the repos/ 
 try:
     from indextts.infer_v2 import IndexTTS2
-except ImportError:
-    print("Warning: index-tts not found. Ensure it is cloned and dependencies are installed.")
+except ImportError as e:
+    print(f"Warning: index-tts not found or failed to import. Error: {e}")
     IndexTTS2 = None
 
 from src.config import PATHS

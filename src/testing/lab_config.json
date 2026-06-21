@@ -1,0 +1,22 @@
+{
+    "passes": [
+        {
+            "pass_number": 1,
+            "system_prompt": "src/testing/prompts/sys_pass1.txt",
+            "user_prompt": "assets/scripts/script.md",
+            "output_file": "src/testing/outputs/exp1_pass1.md"
+        },
+        {
+            "pass_number": 2,
+            "system_prompt": "src/testing/prompts/sys_pass2.txt",
+            "user_prompt": "PREV",
+            "output_file": "src/testing/outputs/exp1_pass2.md"
+        },
+        {
+            "pass_number": 3,
+            "system_prompt": "src/testing/prompts/sys_pass3.txt",
+            "user_prompt": "PREV",
+            "output_file": "src/testing/outputs/exp1_pass3.md"
+        }
+    ]
+}
